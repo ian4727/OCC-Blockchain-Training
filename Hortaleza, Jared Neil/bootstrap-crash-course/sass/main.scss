@@ -1,0 +1,20 @@
+// takes custom variables first, then uses defaults in the bootstrap import
+
+// custom variables
+$primary: #c29938;
+$light: #fbf5e5;
+
+// import the functions & variables
+@import "../node_modules/bootstrap/scss/_functions";
+@import "../node_modules/bootstrap/scss/_variables";
+
+$custom-theme-colors: (
+    "altlight": #f2ebfa,
+    "altdark": #522192,
+);
+
+// merges two maps together
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';
