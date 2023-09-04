@@ -1,0 +1,32 @@
+/* .error{
+    color: red;
+}
+
+p.success{
+    color: green;
+}
+
+p.success.feedback{
+    border: 1px dashed green;
+}
+
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+
+/* div .error{
+    color: red;
+} */
+
+a[href=""]{
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+div p {
+    color: red;
+}
