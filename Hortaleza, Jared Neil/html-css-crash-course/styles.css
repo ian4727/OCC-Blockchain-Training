@@ -1,0 +1,42 @@
+p.error {
+    color: red;
+}
+
+p.success.feedback {
+    color: green;
+}
+
+div p {
+    color: red;
+}
+
+div.error {
+    color: blue;
+}
+
+div .error {
+    color: aquamarine;
+}
+
+a[href*="thenetninja"] {
+    background-color: gray;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a[href$=".com"] {
+    text-decoration: line-through;
+}
+
+div {
+    color: red;
+    border: 1px solid black;
+    margin: 40px;
+    font-weight: bold;
+}
+
+p {
+    color: gray;
+    border: inherit;
+    margin: inherit;
+}
