@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Bootstrap Grid</title>
+        <!-- Bootstrap 5 link -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous" />
+    </head>
+    <body>
+        <!-- 
+            grids
+
+            grids use a series of containers, rows and columns to align content, and it is built with flexbox (layout  that distributes space evenly) to be fully responsive
+
+            flexbox dictates the relationship of parent and child containers, also changes sizes of containers depending on their siblings
+        -->
+
+        <!-- without container div, takes up 100% width of the viewport -->
+        <h2>w/o container</h2>
+        <div class="row">
+            <div class="col">
+                <div class="p-5 bg-primary text-light">col 1</div>
+            </div>
+            <div class="col">
+                <div class="p-5 bg-primary text-light">col 2</div>
+            </div>
+            <div class="col">
+                <div class="p-5 bg-primary text-light">col 3</div>
+            </div>
+        </div>
+
+        <!-- with container div, takes up 100% width of the div -->
+        <div class="container-lg my-5">
+            <h2>basic grid</h2>
+            <div class="row">
+                <div class="col">
+                    <div class="p-5 bg-primary text-light">col 1</div>
+                </div>
+                <div class="col">
+                    <div class="p-5 bg-primary text-light">col 2</div>
+                </div>
+                <div class="col">
+                    <div class="p-5 bg-primary text-light">col 3</div>
+                </div>
+                <div class="col">
+                    <div class="p-5 bg-primary text-light">col 4</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- for custom column widths -->
+        <div class="container-lg my-5">
+            <h2>column widths</h2>
+            <div class="row">
+                <div class="col-6">
+                    <div class="p-5 bg-primary text-light">col 1</div>
+                </div>
+                <div class="col-3">
+                    <div class="p-5 bg-primary text-light">col 2</div>
+                </div>
+                <div class="col-3">
+                    <div class="p-5 bg-primary text-light">col 3</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- for responsive, mobile-friendly column widths -->
+        <div class="container-lg my-5">
+            <h2>responsive column widths</h2>
+            <div class="row">
+                <div class="col-sm-4 col-lg-6">
+                    <div class="p-5 bg-primary text-light">col 1</div>
+                </div>
+                <div class="col-sm-4 col-lg-3">
+                    <div class="p-5 bg-primary text-light">col 2</div>
+                </div>
+                <div class="col-sm-4 col-lg-3">
+                    <div class="p-5 bg-primary text-light">col 3</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 
+            for variable width length:
+                col-<size>-<column length>
+            
+            column lengths are not static measurements, but they are in relation to sibling columns.
+        -->
+
+        <div class="container-lg my-5">
+            <h2>justifying columns</h2>
+
+            <div class="row justify-content-center">
+                <div class="col-md-3">
+                    <div class="p-5 bg-primary text-light">col 1</div>
+                </div>
+                <div class="col-md-3">
+                    <div class="p-5 bg-primary text-light">col 2</div>
+                </div>
+                <div class="col-md-3">
+                    <div class="p-5 bg-primary text-light">col 3</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 
+            justify-content aligns columns to a specific side:
+
+            > start - left
+            > end - right
+            > between - left and right (make space in middle)
+        -->
+
+        <!-- Script at the bottom to let HTML load first, increases load time, JS for Bootstrap -->
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+    </body>
+</html>
