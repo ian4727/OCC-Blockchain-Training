@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"PrivateVisibility.sol": "privateVisibility"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"PrivateVisibility.sol": {
+			"keccak256": "0xfb192b61ac27e1a235b400d32cc6efc5195d6b71d8a066f3090ceedb84b6a451",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://97b6e1dc8eb4f17a09b2b3962b50b244e6dccb5c37f3e62879facc25eede051c",
+				"dweb:/ipfs/QmT84vQVcdFzkHxGuojUs7SMMqsy9gJA4AJMHyhLj8LsQ9"
+			]
+		}
+	},
+	"version": 1
+}
