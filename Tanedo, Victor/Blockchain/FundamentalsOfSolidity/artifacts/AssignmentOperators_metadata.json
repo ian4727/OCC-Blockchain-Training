@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "newValue",
+						"type": "uint256"
+					}
+				],
+				"name": "assignValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "value",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"AssignmentOperators.sol": "AssignmentOperators"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"AssignmentOperators.sol": {
+			"keccak256": "0xb214fe6e20f74f7170c9aba505e51e2163b7f4b2b090cf80e2651fa108b19d61",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2af8284a5630e211473c9d3ccb82860eed8358185b3e1a7ef2c4a997812eb727",
+				"dweb:/ipfs/Qma5zERSLsVK3AnsdPLNZQ7F2kAuQdC73iCJx8KCjNRg2z"
+			]
+		}
+	},
+	"version": 1
+}

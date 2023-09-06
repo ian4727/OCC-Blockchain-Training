@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "myBytes",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_newBytes",
+						"type": "string"
+					}
+				],
+				"name": "updateBytes",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Bytes.sol": "Bytes"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Bytes.sol": {
+			"keccak256": "0x0699e0f4e7d00eca92f0bd70b84c26acef8ada954ac117203732ebbfa31e8b48",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://268fab6feaee2eb5c46e430d4f51a7f6e86104489c9f7ac15ff7a63e7d21a660",
+				"dweb:/ipfs/QmboTa4GZtqkLom7fYpTmpfYuWhMw4mRoQtHgXQMMswybE"
+			]
+		}
+	},
+	"version": 1
+}

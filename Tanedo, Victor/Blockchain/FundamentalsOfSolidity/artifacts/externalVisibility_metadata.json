@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "externalNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "newValue",
+						"type": "uint256"
+					}
+				],
+				"name": "setExternalNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ExternalVisibility.sol": "externalVisibility"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ExternalVisibility.sol": {
+			"keccak256": "0x5ecdaa5b83bbff4e5d78800ccf7d96518f23396be468476758296ebdabc95d3b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://602323d883ca777dddd785f9d2243f5b075340113b8dcc6dfe8b7b4053c089e7",
+				"dweb:/ipfs/Qmc76nf8HpJUTM6nh9iQxTNr2WQcQUuvCzMSNY9XHHussM"
+			]
+		}
+	},
+	"version": 1
+}
