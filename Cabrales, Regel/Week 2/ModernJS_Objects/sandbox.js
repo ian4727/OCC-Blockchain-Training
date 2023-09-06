@@ -51,3 +51,20 @@ const random = Math.random();
 console.log(random);
 console.log(Math.round(random * 100));
 
+// primitive values
+// let score1 = 50;
+// let score2 = score1;
+
+// console.log(`score one: ${score1}`, `score two: ${score2}`);
+
+// score1 = 100;
+// console.log(`score one: ${score1}`, `score two: ${score2}`);
+
+// reference values
+const user1 = { name: 'regel', age: 22 }; 
+const user2 = user1; 
+
+console.log(user1, user2);
+
+user1.age = 40;
+console.log(user1, user2);
