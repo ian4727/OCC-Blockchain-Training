@@ -1,0 +1,19 @@
+{
+    "name": "3",
+    "description": "A happy penguin family gathers on an icy shore, enjoying the crisp, polar breeze.",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/3.jpg",
+    "attributes": [
+        {
+            "trait_type": "Location",
+            "value": "Polar Shore"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Climate",
+            "value": "Polar"
+        }
+    ]
+}
