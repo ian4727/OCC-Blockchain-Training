@@ -1,0 +1,15 @@
+{
+  "name": "Timeless Treasures: The Retro Musical Instrument Collection",
+  "description": "Transporting you to the musical heydays of the 20th century, this collection boasts an impressive array of instruments that have played pivotal roles in defining the sounds of their respective eras. From the soulful melodies of the 1960s to the funky grooves of the 1970s and the synthesizer-driven 1980s, \"Timeless Treasures\" offers a comprehensive chronicle of musical evolution..",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/1.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1980s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Funk"
+    }
+  ]
+}

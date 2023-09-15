@@ -1,0 +1,23 @@
+{
+  "name": "Fluffkins",
+  "description": "Two large, innocent eyes, glistening like dewdrops, adorn Fluffkins' endearing face. They radiate an aura of wonder and curiosity, framed by long, luxurious lashes that add to the creature's enchanting appeal. A small, button-like nose twitches playfully atop its snout, while its tiny, expressive mouth often forms a heartwarming smile that can brighten anyone's day.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/7.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Fluff"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 68
+    },
+    {
+      "trait_type": "Durability",
+      "value": 32
+    },
+    {
+      "trait_type": "Element",
+      "value": "Charm"
+    }
+  ]
+}

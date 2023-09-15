@@ -1,0 +1,23 @@
+{
+  "name": "Rocky",
+  "description": "Rocky is an endearing and lovable dog, a loyal companion whose presence brings joy and warmth to those lucky enough to know him. He's a medium-sized mixed-breed canine with a charming personality and a heartwarming appearance.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/9.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Brawl"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 14
+    },
+    {
+      "trait_type": "Durability",
+      "value": 14
+    },
+    {
+      "trait_type": "Element",
+      "value": "Physical"
+    }
+  ]
+}
