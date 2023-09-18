@@ -1,0 +1,11 @@
+{
+  "name": "Albion Sample Video",
+  "description": "Half cat, half shark.",
+  "video": "QmZwjA12vGpL1Sge21hA2JhKyEpnPVmYLWeimsY2vqsb9q",
+  "attributes": [
+      {
+          "trait_type": "Author",
+          "value": "Your Name"
+      }
+  ]
+}

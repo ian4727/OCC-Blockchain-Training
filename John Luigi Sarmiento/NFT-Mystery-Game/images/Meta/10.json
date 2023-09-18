@@ -1,0 +1,27 @@
+ 
+      {
+        "name": "Deep in the blue",
+        "description": "mysterious smiling woman.",
+        "image": "ipfs://QmSVYdeyKsbkB1HCHzH9z9SFQT4uJNBmdX4D9vdVKHqXap/10.webp",
+        "attributes": [
+          {
+            "trait_type": "Equipment Type",
+            "value": "Shield"
+          },
+          {
+            "trait_type": "Defense Power",
+            "value": 35
+          },
+          {
+            "trait_type": "Durability",
+            "value": 50
+          },
+          {
+            "trait_type": "Element",
+            "value": "Wind"
+          }
+        ]
+      }
+
+
+  

@@ -1,0 +1,24 @@
+
+{
+    "name": "smoky",
+    "description": "mysterious smoke cat.",
+    "image": "ipfs://QmSVYdeyKsbkB1HCHzH9z9SFQT4uJNBmdX4D9vdVKHqXap/3.jpg",
+    "attributes": [
+      {
+        "trait_type": "Equipment Type",
+        "value": "Shield"
+      },
+      {
+        "trait_type": "Defense Power",
+        "value": 35
+      },
+      {
+        "trait_type": "Durability",
+        "value": 50
+      },
+      {
+        "trait_type": "Element",
+        "value": "Wind"
+      }
+    ]
+  }
