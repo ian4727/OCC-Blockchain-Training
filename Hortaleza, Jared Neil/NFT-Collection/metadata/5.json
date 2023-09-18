@@ -1,0 +1,23 @@
+{
+  "name": "Seraphina Shadowblade",
+  "description": "Seraphina Shadowblade is a woman of intrigue, an enigmatic and deadly assassin whose very presence is shrouded in mystery. With a lithe and athletic build, she moves through the world like a phantom, leaving no trace of her passage. Her appearance is a carefully crafted mask that conceals the ruthless and calculating nature beneath.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/5.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Blade"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 15
+    },
+    {
+      "trait_type": "Durability",
+      "value": 75
+    },
+    {
+      "trait_type": "Element",
+      "value": "Physical"
+    }
+  ]
+}

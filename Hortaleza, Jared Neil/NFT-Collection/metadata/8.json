@@ -1,0 +1,23 @@
+{
+  "name": "Takeshi Hiroshi, the Noble Samurai",
+  "description": "Takeshi Hiroshi is a revered samurai, a living embodiment of the ancient code of bushido, which extols virtues like honor, loyalty, and unwavering discipline. Standing at an imposing 6 feet tall, he carries himself with a serene yet commanding presence that demands respect.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/8.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Blade"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 56
+    },
+    {
+      "trait_type": "Durability",
+      "value": 62
+    },
+    {
+      "trait_type": "Element",
+      "value": "Physical"
+    }
+  ]
+}

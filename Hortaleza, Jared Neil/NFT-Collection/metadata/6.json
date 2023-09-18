@@ -1,0 +1,23 @@
+{
+  "name": "Luminara, the Synthetic Enigma",
+  "description": "Luminara is an extraordinary girl android, an embodiment of advanced technology and artificial intelligence, designed to emulate the grace and charm of a young human girl while showcasing the pinnacle of futuristic innovation. She possesses a captivating and enchanting presence that blends the best of human aesthetics with cutting-edge robotics.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/6.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Tech"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 33
+    },
+    {
+      "trait_type": "Durability",
+      "value": 68
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electricity"
+    }
+  ]
+}

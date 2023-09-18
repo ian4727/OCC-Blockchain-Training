@@ -1,0 +1,15 @@
+{
+  "name": "SymphonicStudio: Your Creative Musical Canvas",
+  "description": "Unleash your inner composer and embark on a captivating journey into the world of music creation with \"SymphonicStudio,\" the ultimate platform for crafting your melodies, harmonies, and rhythms. Whether you're a seasoned musician or an aspiring producer, \"SymphonicStudio\" empowers you to transform your musical ideas into sonic masterpieces with ease and innovation.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/13.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "2000s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Mixed"
+    }
+  ]
+}

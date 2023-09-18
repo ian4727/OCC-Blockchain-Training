@@ -1,0 +1,23 @@
+{
+  "name": "Infernus, the Emberfiend",
+  "description": "Infernus, the Emberfiend, is a formidable fire monster that embodies the very essence of scorching destruction. Standing at a towering height of 10 feet, this creature is a nightmarish fusion of molten lava and malevolent intent. Its body, composed of fiery magma, ripples and surges with an internal inferno, casting an eerie, flickering light that dances across its grotesque, obsidian-like scales.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Brawl"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 55
+    },
+    {
+      "trait_type": "Durability",
+      "value": 70
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    }
+  ]
+}

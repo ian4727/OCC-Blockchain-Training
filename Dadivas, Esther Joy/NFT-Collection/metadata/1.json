@@ -1,0 +1,15 @@
+{
+  "name": "1",
+  "description": "An adorable baby panda is having a playful moment with bamboo shoots in a lush forest.",
+  "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/1.jpg",
+  "attributes": [
+      {
+          "trait_type": "Habitat",
+          "value": "Bamboo Forest"
+      },
+      {
+          "trait_type": "Mood",
+          "value": "Playful"
+      }
+  ]
+}

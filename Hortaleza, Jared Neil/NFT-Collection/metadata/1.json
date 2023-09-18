@@ -1,0 +1,23 @@
+{
+  "name": "Alaric Windrider",
+  "description": "Alaric Windrider, the venerable old wizard, is a living legend among magical beings and a symbol of wisdom and arcane mastery. His long, flowing robe, adorned with intricate, ancient symbols, billows majestically as he moves, and his long, silvery beard cascades down to his chest. His piercing, deep-set eyes sparkle with the knowledge of centuries, each wrinkle on his aged face a testament to a lifetime spent delving into the mysteries of the cosmos.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Staff"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 20
+    },
+    {
+      "trait_type": "Durability",
+      "value": 40
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    }
+  ]
+}
