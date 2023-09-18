@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <title>Token Sale</title>
+  <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js"
+        type="application/javascript"></script>
+
+  <style>
+    .hide {
+      display: none;
+    }
+
+    body {
+      padding: 60px;
+      display: flex;
+      flex-direction: row;
+      justify-content: start;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      height: 90vh;
+      box-sizing: border-box;
+    }
+
+    .main {
+      display: flex;
+      flex-direction: column;
+      padding-right: 60px;
+    }
+    
+    button {
+      padding: 8px 32px;
+      width: 200px;
+      box-sizing: border-box;
+      background-color: black;
+      color: white;
+      border: none;
+      border-radius: 3px;
+    }
+
+    #ownerOptions > button {
+      padding: 8px 32px;
+      width: 200px;
+      box-sizing: border-box;
+      background-color: maroon;
+      color: white;
+      border: none;
+      border-radius: 3px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    form > div {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+
+    }
+
+    div#ownerOptions {
+      margin-top: 24px;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <div class='main'>
+
+    <div>
+      <h1>One Community Token Sale</h1>
+      <p>You can mint <span id='symbol'>our</span> tokens here! Please connect your wallet to get started.</p>
+      <button id='connectBtn' onclick='getProviderOrSigner()'>Connect Wallet</button>
+    </div>
+  
+    <div id='mintingOptions'>
+  
+      <h2 id='notPresale' class=''>Presale has not started. 😎</h2>
+      <p><span id='totalSupply'>0</span> of 10,000 <span id='symbol'></span> minted!</p>
+  
+      <form id='presaleMint' class='hide'>
+        <h2>Presale is ongoing! ✨ <br/>Whitelisted users can get 10 tokens during this period.</h2>
+        <button type='button' onclick='presaleMint()'>Presale Mint 🤑</button>
+      </form>
+      
+      <form id='publicMint' class='hide'>
+        <h2>Public mint ongoing! 🚀</h2>
+        <div>
+          <label for='amountToMint'>Amount to Mint:</label>
+          <input type='number' name='amountToMint' id='amountToMint' min='1' max='1000' placeholder='1'/>
+        </div>
+        <button onclick='publicMint()'>Mint 🤑</button>
+      </form>
+  
+    </div>
+  
+    <div id='ownerOptions' class='hide'>
+      <h2>Good day, owner!</h2>
+      <p>This section is for your eyes only 🤫</p>
+      <button id='startPresaleBtn' onclick='startPresale()'>Start Presale</button>
+      <button onclick='withdraw()'>Withdraw Funds</button>
+    </div>
+  
+
+  </div>
+
+  <img src='./pic.png' alt=''/>
+
+  <script src="./script.js"></script>
+  
+</body>
+</html>

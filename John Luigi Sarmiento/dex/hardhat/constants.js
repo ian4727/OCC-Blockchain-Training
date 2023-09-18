@@ -1,0 +1,5 @@
+const WHITELIST_ADDRESS = "0xAdB314e0b384242Ce8a8edBf6b99F78039A898bF";
+
+module.exports = { WHITELIST_ADDRESS };
+
+
