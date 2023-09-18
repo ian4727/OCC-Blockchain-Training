@@ -1,0 +1,15 @@
+{
+    "name": "Tec-9 | Nuclear Threat",
+    "description": "The Tec-9 Nuclear Threat skin features a warning sign and nuclear symbol, symbolizing imminent danger.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/18.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Classified"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Pistol"
+        }
+    ]
+}

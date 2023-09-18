@@ -1,0 +1,15 @@
+{
+    "name": "UMP-45 | Primal Saber",
+    "description": "The UMP-45 Primal Saber skin features a tribal-inspired design with a fierce and primal vibe.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/7.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Classified"
+        },
+        {
+            "trait_type": "Type",
+            "value": "SMG"
+        }
+    ]
+}

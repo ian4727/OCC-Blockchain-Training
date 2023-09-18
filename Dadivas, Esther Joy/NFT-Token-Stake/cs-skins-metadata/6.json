@@ -1,0 +1,15 @@
+{
+    "name": "MAC-10 | Neon Rider",
+    "description": "The MAC-10 Neon Rider skin features a vibrant neon design inspired by futuristic cyberpunk aesthetics.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/6.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Classified"
+        },
+        {
+            "trait_type": "Type",
+            "value": "SMG"
+        }
+    ]
+}

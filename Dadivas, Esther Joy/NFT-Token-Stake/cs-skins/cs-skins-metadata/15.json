@@ -1,0 +1,15 @@
+{
+    "name": "PP-Bizon | Judgement of Anubis",
+    "description": "The PP-Bizon Judgement of Anubis skin features an ancient Egyptian-inspired design with a mystical flair.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/15.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Exceedingly Rare"
+        },
+        {
+            "trait_type": "Type",
+            "value": "SMG"
+        }
+    ]
+}

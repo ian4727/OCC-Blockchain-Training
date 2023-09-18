@@ -1,0 +1,15 @@
+{
+    "name": "Butterfly Knife | Doppler",
+    "description": "The Butterfly Knife Doppler is a sleek and elegant knife skin with a mysterious Doppler pattern.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/5.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Knife"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Karambit | Fade",
+    "description": "The Karambit Fade is a stunningly beautiful and deadly knife skin with a colorful fade pattern.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/4.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Knife"
+        }
+    ]
+}

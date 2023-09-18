@@ -1,0 +1,15 @@
+{
+    "name": "AK-47 | Fire Serpent",
+    "description": "The menacing Fire Serpent design on the AK-47 is a symbol of power and danger.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/2.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Rifle"
+        }
+    ]
+}

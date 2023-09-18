@@ -23,13 +23,6 @@ contract NFTColl is ERC721Enumerable, Ownable {
         _baseTokenURI = baseURI;
     }
 
-    // function safeMint(address to, string memory uri) public onlyOwner {
-    //     uint256 tokenId = _tokenIdCounter.current(); //Retrive the current tokenID from _tokenIdCounter
-    //     _tokenIdCounter.increment(); // Increment _tokenIdCounter
-    //     _safeMint(to, tokenId);
-    //     _setTokenURI(tokenId, uri);
-    // }
-
     // allws user to mint nft with the specified price
     function mint() public payable onlyWhenNotPaused {
         // check if max token limit has been reached
