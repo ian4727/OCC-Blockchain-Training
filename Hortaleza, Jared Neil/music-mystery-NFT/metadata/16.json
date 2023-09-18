@@ -1,0 +1,15 @@
+{
+  "name": "Harmonia: The Museum of Music",
+  "description": "Step into a world where the essence of human expression takes shape through sound and melody. Welcome to \"Harmonia: The Museum of Music,\" an extraordinary institution that celebrates the rich tapestry of musical history, culture, and innovation. Nestled within these hallowed halls, you'll embark on a captivating journey through time, exploring the universal language of music that transcends borders and resonates with the very core of our being.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/16.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "2000s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Orchestral"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Captain Roland Steelheart",
+  "description": "Captain Roland Steelheart is the epitome of a battle-hardened soldier, a living testament to valor and unwavering resolve. Standing at an imposing 6 feet 2 inches, he carries himself with an air of authority and confidence that commands respect on the battlefield and beyond. His chiseled features are marked by the scars of countless skirmishes, and his piercing blue eyes radiate determination and a deep sense of duty.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Gun"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 32
+    },
+    {
+      "trait_type": "Durability",
+      "value": 47
+    },
+    {
+      "trait_type": "Element",
+      "value": "Physical"
+    }
+  ]
+}

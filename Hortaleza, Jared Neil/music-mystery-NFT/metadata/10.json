@@ -1,0 +1,15 @@
+{
+  "name": "Harmonious Rails: The Trains of Pianos",
+  "description": "Embark on a musical journey like no other as we invite you to witness the breathtaking spectacle of \"Harmonious Rails: The Trains of Pianos.\" This extraordinary exhibition reimagines the world of transportation by combining the raw power of locomotives with the enchanting elegance of pianos, resulting in a symphony of innovation, artistry, and sound.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/10.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1940s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Jazz Piano"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Harmonious Elegance: The Organ Piano",
+  "description": "Step into the world of musical sophistication with our \"Harmonious Elegance: The Organ Piano\" exhibition. This exquisite showcase pays tribute to the timeless beauty and enchanting sounds of a musical marvel that has stood the test of centuries – the organ piano.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/2.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1930s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Orchestral"
+    }
+  ]
+}
