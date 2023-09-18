@@ -1,0 +1,23 @@
+{
+  "name": "Aurora, the Synthetic Luminary",
+  "description": "Aurora is a remarkable girl android, a marvel of advanced technology and artificial intelligence designed to mirror the grace and beauty of a human girl while incorporating elements of futuristic ingenuity. Standing at an average height, her appearance is both striking and enchanting, and her presence exudes an aura of sophistication.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Tech"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 23
+    },
+    {
+      "trait_type": "Durability",
+      "value": 64
+    },
+    {
+      "trait_type": "Element",
+      "value": "Electricity"
+    }
+  ]
+}

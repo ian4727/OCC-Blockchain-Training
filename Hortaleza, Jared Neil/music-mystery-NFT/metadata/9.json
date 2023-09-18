@@ -1,0 +1,15 @@
+{
+  "name": "Serenading Sunshine: The Ukulele Street Virtuoso",
+  "description": "Take a stroll through the bustling streets of our vibrant city and let the enchanting melodies of the \"Ukulele Street Virtuoso\" transport you to a world of carefree bliss and musical delight. This talented artist has turned the urban sidewalks into a stage, serenading passersby with the sweet, soulful strums of their ukulele.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/9.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "2000s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Ballad"
+    }
+  ]
+}

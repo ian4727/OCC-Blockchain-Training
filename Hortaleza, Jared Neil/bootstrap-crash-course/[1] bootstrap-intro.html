@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Metadata for SEO -->
+        <meta charset="UTF-8" />
+        <!-- Viewport = Browser Screen Size, also for SEO -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- Title of the Page -->
+        <title>Bootstrap Intro</title>
+        <!-- Bootstrap 5 link -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous" />
+    </head>
+    <body>
+        <!-- heading tags -->
+        <h1>Bootstrap 5 Tutorial</h1>
+        <h2>This is an h2.</h2>
+        <h3>This is an h3.</h3>
+        <h2 class="h3">h2 tag with h3 class.</h2>
+
+        <!-- 
+            heading classes are used to make text look like heading tags 
+        -->
+
+        <!--  display headings -->
+        <h1 class="display-1">display 1 heading</h1>
+        <h1 class="display-4">display 4 heading</h1>
+        <h1 class="display-6">display 6 heading</h1>
+        <p class="display-1">p tag with display-1 class</p>
+
+        <!-- 
+            thinner font but bigger headings
+        -->
+
+        <!-- lead text & alignment -->
+        <small>this is small text</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p class="lead">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        </p>
+        <p class="lead text-center">Hello Ninjas!</p>
+        <p class="lead text-end">Hello Ninjas!</p>
+        <p class="lead text-start">Hello Ninjas!</p>
+
+        <!-- 
+            stylized text to highlight, also custom text alignment
+        -->
+
+        <!-- text decoriation & font weight -->
+        <p class="text-decoration-underline">this is underlined text</p>
+        <p class="text-decoration-line-through">this is line-through text</p>
+        <p class="text-decoration-line-through text-decoration-underline">this is supposed to be underlined and line-through, but it's only line-through</p>
+        <p class="fw-bold">this is bold text</p>
+        <small>this is small text</small>
+
+        <!-- 
+            text decoration classes, the first class will take precedence in its formatting
+        -->
+
+        <!-- text colors -->
+        <p class="text-primary">theme primary color</p>
+        <p class="text-secondary">theme secondary color</p>
+        <p class="text-info">theme info color</p>
+        <p class="text-warning">theme warning color</p>
+        <p class="text-success">theme success color</p>
+        <p class="text-danger">theme danger color</p>
+        <p class="text-muted">theme muted color</p>
+
+        <!-- 
+            text color classes
+        -->
+
+        <!-- bg colors -->
+        <p class="text-white bg-primary">white text on primary bg</p>
+        <p class="text-white bg-secondary">white text on primary bg</p>
+        <p class="text-light bg-danger">light text on danger bg</p>
+        
+        <!-- 
+            bg color classes
+        -->
+
+        <!-- Script at the bottom to let HTML load first, increases load time, JS for Bootstrap -->
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+    </body>
+</html>
+
+<!-- 
+    Source: https://getbootstrap.com/docs/5.0/getting-started/download/
+
+    Bootstrap uses a default font of Helvetica Neue which replaces Times New Roman.
+
+    New Features for Bootstrap 5:
+        - Uses Vanilla JS instead of JQuery (less dependencies)
+        - Forms have been revamped
+        - Right-To-Left support added (for languages reading right to left)
+        - New utility classes (positioning, font size, border radius, etc.)
+        - Minor changes to some components & grid (Jumbotron gone, a jumbotron is a big box/board for highlighted information)
+        - Bootstrap icons (small images to signify parts of a site, i.e. A house for a Home button)
+        - New Offcanvas (pops from the top, bottom, left or right of the screen, like a sidebar) & Accordion (group of dropdowns that show/hide information)
+        - More colors have been added (add with classes, i.e. class="gray-500")
+
+    Bootstyle does a reboot (default browser styles are taken out)
+
+-->

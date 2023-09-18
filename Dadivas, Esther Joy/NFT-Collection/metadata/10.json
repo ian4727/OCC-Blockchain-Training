@@ -1,0 +1,15 @@
+{
+    "name": "10",
+    "description": "A beautiful and colorful duckling",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/10.jpg",
+    "attributes": [
+        {
+            "trait_type": "Habitat",
+            "value": "Tranquil Pond"
+        },
+        {
+            "trait_type": "Feather Color",
+            "value": "Colorful"
+        }
+    ]
+}

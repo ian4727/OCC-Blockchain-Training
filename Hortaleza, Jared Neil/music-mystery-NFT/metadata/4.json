@@ -1,0 +1,15 @@
+{
+  "name": "Symphony of Keys: The Piano Room",
+  "description": "Enter a realm where music reigns supreme, and the air is filled with the enchanting harmony of pianos. Welcome to the \"Symphony of Keys: The Piano Room,\" an exquisite sanctuary for pianists, enthusiasts, and anyone seeking solace in the soulful embrace of this timeless instrument.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/4.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1920s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Classical Piano"
+    }
+  ]
+}

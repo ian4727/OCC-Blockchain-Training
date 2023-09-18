@@ -1,0 +1,15 @@
+{
+    "name": "4",
+    "description": "A baby elephant sprays water with its trunk, creating a playful fountain in a serene watering hole.",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/4.jpg",
+    "attributes": [
+        {
+            "trait_type": "Location",
+            "value": "Watering Hole"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Playful"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mecha Maidens",
+  "description": "The Mecha Maidens are a formidable girl mecha army, a futuristic fusion of advanced technology, power, and feminine elegance. These awe-inspiring combat units stand tall, each measuring around 10 feet in height, and are designed to be the ultimate guardians of justice and protection.",
+  "image": "ipfs://QmYDce8Va9bWehAJKG4v9gUzh8fd3KswiSrLxHsfKTVMW3/10.jpg",
+  "attributes": [
+    {
+      "trait_type": "Equipment Type",
+      "value": "Gun"
+    },
+    {
+      "trait_type": "Defense Power",
+      "value": 75
+    },
+    {
+      "trait_type": "Durability",
+      "value": 43
+    },
+    {
+      "trait_type": "Element",
+      "value": "Physical"
+    }
+  ]
+}

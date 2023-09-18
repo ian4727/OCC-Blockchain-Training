@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Bootstrap Utilities</title>
+        <!-- Bootstrap 5 link -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous" />
+    </head>
+    <body>
+        <!-- margin and padding -->
+        <div class="bg-primary m-1 p-1">Tiny margin and padding</div>
+        <div class="bg-primary m-2 p-2">Small margin and padding</div>
+        <div class="bg-primary m-5 p-5">Large margin and padding</div>
+        <div class="bg-primary my-3 px-5">Margin in y, padding in x</div>
+        <div class="bg-primary mt-3 mb-4 ms-5 me-1 ps-5 pt-4 pe-2 pb-1">
+            m & p in each direction
+        </div>
+
+        <!-- 
+            m (margin) and p (padding) can go from 1 (.25rem) to 5 (3rem), anything bigger would be custom CSS for the user as these are just shorthands.
+
+            x refers to left and right application
+            y refers to top and bottom application
+            t is top (i.e. margin top)
+            s is start (i.e. padding start or left)
+            e is end (i.e. margin end or right)
+            b is bottom
+
+            rem refers to size relative to the size of the Root Element, by default it uses 16px, so 1rem = 16px
+        -->
+
+        <!-- borders -->
+
+        <div class="m-3 p-3 border">default border</div>
+        <div class="m-3 p-3 border-top border-end">individual borders</div>
+        <div class="m-3 p-3 border-start border-success">border success color as start</div>
+        <div class="m-3 p-3 border-start border-danger border-5">thicker border</div>
+        <div class="m-3 p-3 rounded border border-5">rounded corners</div>
+        <div class="m-3 p-3 rounded-pill border border-5">rounded pill corners</div>
+
+        <!-- 
+            for adding borders
+            
+            top, bottom, start and end to make borders for only that side
+
+            border 1-5 to increase thickness
+            rounded to make corners rounded (border radius)
+            rounded-pill to make it like a pill
+        -->
+
+        <!-- box shadow -->
+        <div class="m-3 p-3 shadow-sm">element with small box shadow</div>
+        <div class="m-3 p-3 shadow">element with medium box shadow</div>
+        <div class="m-3 p-3 shadow-lg">element with large box shadow</div>
+
+        <!-- 
+            for adding shadow to the container, small, medium or large
+        -->
+
+        <!-- font weight -->
+        <p class="fw-bold">bold text</p>
+        <p class="fw-bolder">bolder text</p>
+        <p>normal text</p>
+        <p class="fw-light">light text</p>
+        <p class="fst-italic">italic text</p>
+        <p class="fw-light fst-italic">italic light text</p>
+
+        <!-- 
+            fw is font weight
+            fst is font style
+
+            bold, bolder or light for different font thickness
+            italic or normal to change font styling
+        -->
+
+        <!-- Script at the bottom to let HTML load first, increases load time, JS for Bootstrap -->
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+    </body>
+</html>

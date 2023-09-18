@@ -1,0 +1,15 @@
+{
+  "name": "Harmony Haven: The City of Music",
+  "description": "Welcome to \"Harmony Haven: The City of Music,\" a place where the rhythm of life is set to an everlasting melody, and the cityscape resonates with the vibrant energy of musical expression. This unique metropolis is a haven for musicians, music lovers, and anyone who seeks to immerse themselves in the transformative power of sound.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/12.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1970s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Mixed"
+    }
+  ]
+}

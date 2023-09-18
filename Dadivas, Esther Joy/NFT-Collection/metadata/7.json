@@ -1,0 +1,15 @@
+{
+    "name": "7",
+    "description": "A playful red fox kit explores the depths of a colorful and enchanting forest, its vibrant fur blending with the foliage.",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/7.jpg",
+    "attributes": [
+        {
+            "trait_type": "Habitat",
+            "value": "Enchanting Forest"
+        },
+        {
+            "trait_type": "Fur Color",
+            "value": "Red"
+        }
+    ]
+}
