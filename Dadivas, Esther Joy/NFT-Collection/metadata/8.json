@@ -1,0 +1,15 @@
+{
+    "name": "8",
+    "description": "A pair of fluffy alpaca friends graze peacefully in a picturesque meadow, their woolly coats keeping them warm.",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/8.jpg",
+    "attributes": [
+        {
+            "trait_type": "Habitat",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Coat Type",
+            "value": "Woolly"
+        }
+    ]
+}

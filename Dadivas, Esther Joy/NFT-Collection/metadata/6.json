@@ -1,0 +1,15 @@
+{
+    "name": "6",
+    "description": "A curious baby owl perches on a moss-covered branch, its wide eyes filled with wonder as it explores the forest canopy.",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/6.jpg",
+    "attributes": [
+        {
+            "trait_type": "Habitat",
+            "value": "Forest Canopy"
+        },
+        {
+            "trait_type": "Disposition",
+            "value": "Curious"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "2",
+    "description": "A fluffy kitten peacefully sleeps in a cozy nook, bathed in the warm glow of sunlight.",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/2.jpg",
+    "attributes": [
+        {
+            "trait_type": "Location",
+            "value": "Sunlit Nook"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Serene"
+        }
+    ]
+}
