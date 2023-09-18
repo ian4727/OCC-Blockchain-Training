@@ -1,0 +1,15 @@
+{
+    "name": "CZ75-Auto | Victoria",
+    "description": "The CZ75-Auto Victoria skin showcases a regal and elegant design inspired by royal craftsmanship.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/20.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Pistol"
+        }
+    ]
+}

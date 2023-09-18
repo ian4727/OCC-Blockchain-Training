@@ -1,0 +1,15 @@
+{
+    "name": "MP7 | Bloodsport",
+    "description": "The MP7 Bloodsport skin features a bold and aggressive design, perfect for close-quarters combat.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/14.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "SMG"
+        }
+    ]
+}

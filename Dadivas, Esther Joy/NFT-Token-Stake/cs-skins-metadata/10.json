@@ -1,0 +1,15 @@
+{
+    "name": "FAMAS | Roll Cage",
+    "description": "The FAMAS Roll Cage skin showcases a mechanical and industrial design, perfect for those who appreciate precision.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/10.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Restricted"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Rifle"
+        }
+    ]
+}

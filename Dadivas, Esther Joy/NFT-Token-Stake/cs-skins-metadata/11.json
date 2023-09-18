@@ -1,0 +1,15 @@
+{
+    "name": "M9 Bayonet | Marble Fade",
+    "description": "The M9 Bayonet Marble Fade is a luxurious and colorful knife skin with a stunning marble-like pattern.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/11.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Knife"
+        }
+    ]
+}

@@ -1,12 +1,12 @@
 const { ethers } = require("hardhat"); //hardhat runtime environment
-const { IPFS } = require("../constants");
+require("dotenv").config();
 
 async function main() {
-  const NFTCollContract = await ethers.deployContract("NFTColl", [IPFS]);
+  const lootboxContract = await ethers.deployContract("Lootbox");
 
-  await NFTCollContract.waitForDeployment();
+  await lootboxContract.waitForDeployment();
 
-  console.log(`Contract deployed to: ${NFTCollContract.target}`);
+  console.log(`Contract deployed to: ${lootboxContract.target}`);
 }
 
 main()

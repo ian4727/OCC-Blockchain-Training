@@ -1,0 +1,15 @@
+{
+    "name": "P90 | Asiimov",
+    "description": "The P90 Asiimov is a futuristic and high-tech SMG skin with a sleek and stylish design.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/13.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "SMG"
+        }
+    ]
+}

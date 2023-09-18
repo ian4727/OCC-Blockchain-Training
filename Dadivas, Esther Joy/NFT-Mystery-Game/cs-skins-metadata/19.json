@@ -1,0 +1,15 @@
+{
+    "name": "Five-SeveN | Hyper Beast",
+    "description": "The Five-SeveN Hyper Beast skin features a wild and vibrant design inspired by urban graffiti and street art.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/19.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Classified"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Pistol"
+        }
+    ]
+}

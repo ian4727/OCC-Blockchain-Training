@@ -1,0 +1,15 @@
+{
+    "name": "M4A4 | Howl",
+    "description": "The M4A4 Howl is an iconic rifle skin featuring a menacing wolf design, known for its rarity and appeal.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/8.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Rifle"
+        }
+    ]
+}

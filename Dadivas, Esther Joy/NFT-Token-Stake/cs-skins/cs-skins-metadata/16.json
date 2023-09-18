@@ -1,0 +1,15 @@
+{
+    "name": "USP-S | Kill Confirmed",
+    "description": "The USP-S Kill Confirmed skin features a deadly message on its side, warning your enemies of impending doom.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/16.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Classified"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Pistol"
+        }
+    ]
+}

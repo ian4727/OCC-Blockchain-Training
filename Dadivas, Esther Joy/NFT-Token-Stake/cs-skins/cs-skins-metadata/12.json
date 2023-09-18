@@ -1,0 +1,15 @@
+{
+    "name": "Gut Knife | Crimson Web",
+    "description": "The Gut Knife Crimson Web is a menacing knife skin with a dark web-inspired design, perfect for stealthy takedowns.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/12.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Classified"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Knife"
+        }
+    ]
+}

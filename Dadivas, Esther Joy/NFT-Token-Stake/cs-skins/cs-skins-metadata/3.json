@@ -1,0 +1,15 @@
+{
+    "name": "AWP | Dragon Lore",
+    "description": "The AWP Dragon Lore is a legendary sniper rifle with a mythical dragon theme.",
+    "image": "ipfs://QmNtSu8kJvKLeA2GXfWSSVDRa8ikXhRmnVZtucAJJVhxMM/3.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Covert"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Rifle"
+        }
+    ]
+}
