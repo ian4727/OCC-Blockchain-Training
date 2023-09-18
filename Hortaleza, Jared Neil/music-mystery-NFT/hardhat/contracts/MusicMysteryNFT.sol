@@ -65,6 +65,7 @@ contract MusicMysteryNFT is ERC721URIStorage {
             keccak256(abi.encodePacked(block.timestamp, msg.sender))
         ) % maxItems;
         mintEquipment(tokenURI(randomTokenId), randomTokenId);
+        boxes[msg.sender]--;
     }
 
     function mintEquipment(
