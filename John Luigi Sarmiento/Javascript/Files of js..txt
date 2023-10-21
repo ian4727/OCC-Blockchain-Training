@@ -1,0 +1,7 @@
+server - some other computer containing all of your files that make up your website 
+
+
+
+(;) marks the end of an particular statements .
+it allows you to identify the end of the code for better reading .
+also it also allows you to write a multiple statements in oneline .

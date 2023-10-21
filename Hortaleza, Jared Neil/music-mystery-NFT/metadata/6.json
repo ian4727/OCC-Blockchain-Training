@@ -1,0 +1,15 @@
+{
+  "name": "Grandeur Unleashed: The Magnificent Large Piano",
+  "description": "Step into a realm where musical grandeur knows no bounds, where every note resounds with the resonance of a thousand dreams. Welcome to \"Grandeur Unleashed: The Magnificent Large Piano\" – a breathtaking celebration of an instrument that stands as the epitome of musical excellence.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/6.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1900s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Classical Piano"
+    }
+  ]
+}

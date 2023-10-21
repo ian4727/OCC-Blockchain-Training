@@ -1,0 +1,15 @@
+{
+    "name": "9",
+    "description": "A cheerful sloth hangs lazily from a sturdy tree branch, its contented smile reflecting a life of unhurried tranquility.",
+    "image": "ipfs://QmciBzRDkJjEd4ivHCDzpbwvaAsN6UcvSTYc8zYQKdJGKm/9.jpg",
+    "attributes": [
+        {
+            "trait_type": "Habitat",
+            "value": "Rainforest Canopy"
+        },
+        {
+            "trait_type": "Disposition",
+            "value": "Cheerful"
+        }
+    ]
+}

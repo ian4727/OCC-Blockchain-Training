@@ -1,0 +1,15 @@
+{
+  "name": "MelodyWorld: The Music-Themed Theme Park",
+  "description": "Imagine a place where music comes to life, where melodies and harmonies become thrilling adventures, and where rhythm and sound transport you to a world of endless entertainment and inspiration. Welcome to \"MelodyWorld,\" the world's first and most enchanting music-themed theme park, where every note, beat, and tune transforms into a magical experience.",
+  "image": "ipfs://QmYpCn5qHA1YqZTWv1JGvCWUvFabFErYvPC68b44b6nnnS/20.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "2010s"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Mixed"
+    }
+  ]
+}
